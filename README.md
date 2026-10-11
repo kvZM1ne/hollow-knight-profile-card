@@ -1,7 +1,5 @@
 # Hollow Knight — Profile Card
 
-[English](#english) | [Беларуская](#беларуская)
-
 ---
 
 ## English
